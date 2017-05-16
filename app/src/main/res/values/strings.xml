@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Find &amp; Text</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="location_battery_off">Location and Battery monitors are off</string>
+    <string name="exit_via_menu">"Please exit application via menu. "</string>
+    <string name="or">"OR "</string>
+    <string name="click_home_button">"\nClick 'Home' button to run application in background. "</string>
+    <string name="location_in_log">Location</string>
+    <string name="location_in_log2">Location</string>
+    <string name="location_not_gound_in_log">LocationNotFound</string>
+    <string name="got_location_from">"Got location from "</string>
+    <string name="two_dots">": "</string>
+    <string name="find_and_text"><![CDATA[Find & Text]]></string>
+    <string name="comma_in_got_location">", "</string>
+    <string name="sms_cant_be_sent">"SMS can't be sent, please give permissions by clicking on "</string>
+    <string name="select_recipient_and_allow">\'Select Recipient\' and \'Allow\' on a splash screen</string>
+    <string name="exit_app">Do you want to exit application?</string>
+    <string name="confirm_exit">Confirm Exit</string>
+    <string name="yes_in_confirm_exit">Yes</string>
+    <string name="no_in_confirm_exit">No</string>
+    <string name="please_select_a_recipient">Please select a recipient</string>
+    <string name="set_new_battery_value">Set new battery value</string>
+    <string name="critical_value_set">"Critical battery value is set to : "</string>
+    <string name="select_recipient_btn">Select Recipient</string>
+    <string name="select_critical_battery_level_tv">Select Critical Battery Level</string>
+    <string name="start">Go</string>
+    <string name="stop">Cancel</string>
+    <string name="critical_level_in_log">criticalLevel====</string>
+    <string name="exit_application_menu">Exit Application</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3315241718173584/4813802750</string>
+    <string name="you_have_selected_to_send">You have selected to send SMS to</string>
+    <string name="contact_selection">Contact selection</string>
+    <string name="yes_in_contact_selection">Yes</string>
+    <string name="no_in_contact_selection">No</string>
+    <string name="the_application_sends">The application is very useful for parents to know where your chirdren are, for trekkers, elderly people with needs such as Dementia or Elzeimer and many other uses you need. It sends an SMS containing \'Hi, my battery running low, will contact you ASAP. My current location is \'here will be displayed a link to Google Maps with your current location\' to a selected (by you) recipient as the battery discharging reached selected (also by you) battery level.</string>
+    <string name="instructions">Instructions -</string>
+    <string name="instruction_1">1. Click on \'Select Recipient\' grant permissions if requested.</string>
+    <string name="instruction_2">2. Set the critical battery level upon which an SMS will be sent</string>
+    <string name="instruction_3">4. Click on the Switch to turn the service on or off. As your location is found a notification pops up.</string>
+    <string name="instruction_4">5. Click the \'Home\' button to run the app in the background.</string>
+    <string name="splash_ok">OK</string>
+    <string name="hi_my_battery_location">Hi, my battery running low, will contact you ASAP.</string>
+    <string name="create_message_to_send">Create your message to be sent</string>
+    <string name="service_running">Service Running</string>
+    <string name="my_last_location">My last location is</string>
+    <string name="no_phone_number">No phone number for this contact</string>
+    <string name="instruction_5">3. Click on the switch Make Custom Message to create a personal message.</string>
+    <string name="make_custom_message">Make Custom Message</string>
+    <string name="turn_service_on_off">Turn Service On/Off</string>
+    <string name="locatio_service">Location Service is Disabled</string>
+    <string name="go_to_settings">Go to settings</string>
+    <string name="cancel_settings">Cancel</string>
+    <string name="acknowledge">Please acknowledge reading</string>
+</resources>

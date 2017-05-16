@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="location_battery_off">שרותי מיקום וסוללה מכובים</string>
+    <string name="exit_via_menu">\"אם ברצונך לצאת מהאפליקציה, צא\\י דרך התפריט\"</string>
+    <string name="or">\"או \"</string>
+    <string name="click_home_button">\"לחץ\\י על כפתור ה-\'בית\' כדי להריץ את האפליקציה ברקע. \"</string>
+    <string name="location_in_log">מיקום</string>
+    <string name="location_in_log2">מיקום</string>
+    <string name="location_not_gound_in_log">המיקום לא נמצא</string>
+    <string name="got_location_from">\"התקבל מיקום מ \"</string>
+    <string name="two_dots">\" :\"</string>
+    <string name="find_and_text">מצא ושלח</string>
+    <string name="comma_in_got_location">", "</string>
+    <string name="sms_cant_be_sent">\" לא נשלח SMS, נא לתת הרשאות שליחה על ידי לחיצה על  \"</string>
+    <string name="select_recipient_and_allow">בחר\\י איש קשר ואשר\\י הרשאות במסך</string>
+    <string name="exit_app">את\\ה רוצה לצאת מהאפליקציה?</string>
+    <string name="yes_in_confirm_exit">כן</string>
+    <string name="please_select_a_recipient">תבחר\\י איש קשר</string>
+    <string name="set_new_battery_value">בחר\\י מצב סוללה חדש</string>
+    <string name="critical_value_set">\"מצב סוללה קריטי נבחר ל : \"</string>
+    <string name="app_name">מצא ושלח</string>
+    <string name="confirm_exit">וידוא יציאה</string>
+    <string name="critical_level_in_log">criticalLevel====</string>
+    <string name="no_in_confirm_exit">לא</string>
+    <string name="select_recipient_btn">בחר\\י איש קשר</string>
+    <string name="select_critical_battery_level_tv">בחר\\י ערך קריטי לסוללה</string>
+    <string name="start">החל</string>
+    <string name="stop">בטל</string>
+    <string name="exit_application_menu">יציאה מאפליקציה</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3315241718173584/4813802750</string>
+    <string name="you_have_selected_to_send">"בחרת לשלוח SMS ל- "</string>
+    <string name="contact_selection">בחירת איש קשר</string>
+    <string name="yes_in_contact_selection">כן</string>
+    <string name="no_in_contact_selection">לא</string>
+    <string name="the_application_sends">\"היישום הזה שימושי מאוד להורים שיידעו איפה ילדיהם, למטיילים, למבוגרים עם צרכים מיוחדים כגון דימנציה או אלצהיימר ועוד שימושים כיד הדמיון. היישום שולח SMS אוטומטי לאיש קשר שתבחר ברגע שהסוללה שלך מגיעה לרמה שאתה מגדיר. ה-SMS מכיל \'הי, הסוללה שלי נגמרת, אצור קשר בהקדם\' ואת המיקום הנוכחי שלך ברגע השליחה ולינק למפות Google. את\\ה יכול\\ה ליצור הודעה עם מלל אישי \"</string>
+    <string name="instructions">"הראות - "</string>
+    <string name="instruction_1">1. לחץ\\י על בחירת איש קשר ותן\\י הרשאות אם תתבקש\\י.</string>
+    <string name="instruction_2">2. הגדר\\י מצב סוללה קריטי שבו יישלח סמס.</string>
+    <string name="instruction_4">5. לחץ\\י על מקש הבית כדי להמשיך להריץ את היישום ברקע.</string>
+    <string name="splash_ok">OK</string>
+    <string name="hi_my_battery_location">הי, הסוללה שלי נגמרת, אצור קשר בהקדם.</string>
+    <string name="create_message_to_send">יצירת הודעה לשליחה</string>
+    <string name="service_running">השרות פעיל</string>
+    <string name="my_last_location">המיקום האחרון שלי</string>
+    <string name="no_phone_number">לאיש קשר זה אין מספר טלפון</string>
+    <string name="instruction_5">3. לחץ\\י על סוויץ\' להגדרת הודעה אישית שתישלח לאיש קשר.</string>
+    <string name="instruction_3">4. לחץ\\י על סוויץ\' הפעל שרות, כשמיקומך יימצא תופיע הודעה שהשרות פעיל.</string>
+    <string name="make_custom_message">צור הודעה אישית</string>
+    <string name="turn_service_on_off">הפעל\\הפסק שרות</string>
+    <string name="locatio_service">שרותי מיקום כבויים</string>
+    <string name="go_to_settings">מעבר להגדרות</string>
+    <string name="cancel_settings">בטל</string>
+    <string name="acknowledge">אשר\\י שקראת בבקשה</string>
+</resources>
